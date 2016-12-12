@@ -1,6 +1,7 @@
 ##before running the script, remember to:
 #1 setwd
 #2 install and run library tidyr and dplyr
+#3 see codebook on variable descriptions and study design
 
 ## download and unzip data
 
